@@ -1,4 +1,4 @@
-<h1>WELCOME TO LINUX PROJECTS REPO</h1>
+<h1>WELCOME TO LINUX/SHELL PROJECTS REPO</h1>
 
 <p>Here you will find some easy Projects To Do : </p>
 
